@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "219794142669",
+    "firebase_url": "https://agendacomfirebasefateccarapicu.firebaseio.com",
+    "project_id": "agendacomfirebasefateccarapicu",
+    "storage_bucket": "agendacomfirebasefateccarapicu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219794142669:android:014b923e61e5bf99",
+        "android_client_info": {
+          "package_name": "br.com.bossini.agendacomfirebasefateccarapicuiba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219794142669-0q0dqld5ls6tnm6jr63j7sdftj6eqpk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.agendacomfirebasefateccarapicuiba",
+            "certificate_hash": "43f8b187a57ef46fcd0780c3bd438e893b4161d5"
+          }
+        },
+        {
+          "client_id": "219794142669-mt494rhvc9ge3i5oicja2eafeetb22cf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "219794142669-mt494rhvc9ge3i5oicja2eafeetb22cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3GiNSVZknd-RatV_cTfEuvaGF0DEFbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219794142669-mt494rhvc9ge3i5oicja2eafeetb22cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
